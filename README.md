@@ -1,2 +1,3 @@
-# frontend
-All the visualization
+# Spyyn
+High level architecture for this project.
+
